@@ -54,14 +54,4 @@ Copy code
 npm run dev
 Access the Application: Visit http://localhost:3000 in your browser for the frontend and http://localhost:5000 for the backend.
 
-### Deployment
-Frontend: Deploy to Vercel or Netlify with a proper build process.
-Backend: Deploy to Heroku or Render and configure environment variables.
-Roadmap
-Add user roles (e.g., admin, agent, buyer).
-Implement payment gateway integration for property transactions.
-Integrate map services like Google Maps for property locations.
-Enhance SEO and accessibility.
-Contributing
-Contributions are welcome! Please fork the repository and submit a pull request.
 
